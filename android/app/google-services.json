@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142545144772",
+    "project_id": "pulse-test-b6d4f",
+    "storage_bucket": "pulse-test-b6d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142545144772:android:6c280d03dc50c78b063291",
+        "android_client_info": {
+          "package_name": "com.fgx.pulsetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OgkxXLQhXPvH3kzv4L4k42fzAk-kGXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

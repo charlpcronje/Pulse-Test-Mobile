@@ -1,0 +1,8 @@
+{
+  "name": "Push Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0763f359"
+}
